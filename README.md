@@ -22,8 +22,10 @@ A work day calendar app that I developed to help myself keep track of tasks duri
 - HTML
 - CSS
 - Javascript
+- Jquery
+- Bootstrap
 
 
-Deployed Site:
+Deployed Site: https://batking74.github.io/Work-Day-Calendar/
 
 GitHub Repository: https://github.com/Batking74/Work-Day-Calendar
