@@ -1,7 +1,7 @@
 # Work Day Calendar
 
 ### Description
-A work day calendar app that I developed to help myself keep track of tasks during the day (9AM-5PM). 
+Crafted with the intention of aiding personal task management, this workday calendar app is a practical solution designed for organizing and tracking activities within the 9 AM to 5 PM timeframe. The app provides a user-friendly interface to enhance productivity and ensure efficient scheduling of daily tasks.
 
 ![Image of Nazir's Work day Calendar App](./Assets/Work_day_calendar.png)
 
